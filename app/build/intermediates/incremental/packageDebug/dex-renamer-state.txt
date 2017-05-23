@@ -1,0 +1,7 @@
+#Tue May 23 10:43:28 CST 2017
+base.0=D\:\\AS\\Demo_zhy_02_slidingMenu01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_27e3b3e9fba7939cb86baae85633e8eec29835d0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AS\\Demo_zhy_02_slidingMenu01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c86ec8deb31393e7a6a03f15809d7b2cf76cdebe\\classes.dex
+base.1=D\:\\AS\\Demo_zhy_02_slidingMenu01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c86ec8deb31393e7a6a03f15809d7b2cf76cdebe
+file.0=D\:\\AS\\Demo_zhy_02_slidingMenu01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_27e3b3e9fba7939cb86baae85633e8eec29835d0\\classes.dex
