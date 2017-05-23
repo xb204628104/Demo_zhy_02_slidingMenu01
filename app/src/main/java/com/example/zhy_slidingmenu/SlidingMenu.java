@@ -40,6 +40,7 @@ public class SlidingMenu extends HorizontalScrollView
 	public SlidingMenu(Context context, AttributeSet attrs, int defStyle)
 	{
 		super(context, attrs, defStyle);
+
 		mScreenWidth = ScreenUtils.getScreenWidth(context);
 
 		TypedArray a = context.getTheme().obtainStyledAttributes(attrs,
